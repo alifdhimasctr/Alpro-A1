@@ -1,6 +1,6 @@
-# Alpro-A1
+<p align="center">
+ # Alpro-A1
+</p>
+
 #     DHIMAS ALIF PRABOWO - 24060121120037​​ 
 
-<p align="center">
-  <img src="https://telegra.ph/file/69eecdbe35e9e05099aaa.jpg">
-</p>
