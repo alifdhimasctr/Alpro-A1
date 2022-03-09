@@ -1,7 +1,7 @@
 /*Nama File : [CekHari.c]*/
 /*Deskripsi : [menuliskan ke layar nama-nama Hari dari nomor hari 1 s.d 7]*/
 /*Pembuat   : [Dhimas Alif Prabowo - 24060121120037]*/
-/*Tanggal   : [Selasa, 01-03-2022 11:29 WIB]*/
+/*Tanggal   : [Selasa, 09-03-2022 08:29 WIB]*/
 
 #include <stdio.h>
 #include <stdlib.h>
