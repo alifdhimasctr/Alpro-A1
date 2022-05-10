@@ -1,5 +1,5 @@
-/*Nama File : CountingSort.c*/
-/*Deskripsi : mengurutkan array acak dengan metode counting sort*/
+/*Nama File : InsertionSort.c*/
+/*Deskripsi : mengurutkan array acak dengan metode insertion sort*/
 /*Pembuat   : Dhimas Alif Prabowo - 24060121120037*/
 /*Tanggal   : Selasa,26 April 2022 - 11.04*/
 
